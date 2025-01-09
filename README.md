@@ -4,7 +4,7 @@
 AI News Analyser is a powerful tool that combines NewsAPI and Google's Gemini AI to fetch, analyze, and provide insights on news articles. The project aims to help users stay informed with AI-powered news analysis and summarization.
 
 ## Visualization
-![Image Description](Diagrams Output Example.png)
+![Bullseye Diagram](https://github.com/YoussefBechara/AI-FX-News-Analyser-YSFB/blob/main/Diagrams%20Output%20Example.png?raw=true)
 
 ## Features
 - Fetch latest news articles using NewsAPI
